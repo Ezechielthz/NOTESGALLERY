@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8B0000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFCCCB</color>
+    <color name="toolbarIconColor">#FFFFFF</color>
+    <color name="loginPageBackgroundColor">#FFFFFF</color>
+    <color name="productGridBackgroundColor">#FFFFFF</color>
+    <color name="msg_no_notes">#232323</color>
+    <color name="hint_enter_note">#D3D3D3</color>
+    <color name="timestamp">#232323</color>
+    <color name="note_list_text">#232323</color>
+</resources>
